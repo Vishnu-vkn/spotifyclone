@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.left {
+    width: 25vw;
+    padding: 10px;
+}
+
+.right {
+    width: 75vw;
+}
+
+.home ul li{
+    display: flex;
+    gap:15px;
+    width: 14px;
+    list-style: none;
+}
+
+.home{
+    padding: 10x;
+}
