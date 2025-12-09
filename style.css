@@ -173,4 +173,16 @@ body {
     gap:16px;
     justify-content: center;
 }
+
+.songlist ul{
+padding: 0 42px;
+}
+
+.songlist ul li{
+    list-style-type: decimal;
+    display: flex;
+    gap: 34px;
+    cursor: pointer;
+    padding: 12px 0;
+}
  
