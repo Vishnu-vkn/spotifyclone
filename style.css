@@ -168,7 +168,8 @@ body {
     padding: 12px;
     width: 70vw;
     filter: invert(1);
-    border-radius: 30px;
+    border-radius: 10px;
+    height: 40px;
 }
 
 .songbutton{
@@ -215,4 +216,24 @@ padding: 0px 12px;
     font-size: 13px;
     width: 64px;
     padding: 12px;
+}
+
+.seekbar{
+    height: 2px;
+    width: 100%;
+    background:  black;
+    border-radius: 10px;
+    position: absolute;
+    bottom: 0;
+    margin: 6px;
+}
+
+.circle{
+    position: relative;
+    width: 13px;
+    height: 13px;
+    background-color: black;
+    border-radius: 13px;
+    bottom:6px;
+    left: 0%;
 }
