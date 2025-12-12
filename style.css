@@ -237,3 +237,7 @@ padding: 0px 12px;
     bottom:6px;
     left: 0%;
 }
+
+.songbutton img{
+    cursor: pointer;
+}
