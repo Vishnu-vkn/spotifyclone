@@ -220,11 +220,11 @@ padding: 0px 12px;
 
 .seekbar{
     height: 2px;
-    width: 100%;
+    width: 98%;
     background:  black;
     border-radius: 10px;
     position: absolute;
-    bottom: 0;
+    bottom: 2px;
     margin: 6px;
 }
 
@@ -238,6 +238,16 @@ padding: 0px 12px;
     left: 0%;
 }
 
+.songtime , .songinfo {
+    color: black;
+    padding: 0 12px;
+}
+
 .songbutton img{
     cursor: pointer;
+}
+
+.abovebar{
+    display: flex;
+    justify-content: space-between;
 }
