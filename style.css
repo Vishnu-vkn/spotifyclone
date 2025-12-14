@@ -226,6 +226,7 @@ padding: 0px 12px;
     position: absolute;
     bottom: 2px;
     margin: 6px;
+    cursor: pointer;
 }
 
 .circle{
