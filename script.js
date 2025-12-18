@@ -88,7 +88,7 @@ async function main() {
     // Listen for timeupdate event
     currentsong.addEventListener("timeupdate",()=>{
         console.log(currentsong.currentTime,currentsong.duration);
-        document.querySelector(".songtime").innerHTML=`${secondstominuteseconds(currentsong.currentTime)}/${secondstominuteseconds(currentsong.duration)}` 
+        document.querySelector(".songtime").innerHTML=`${secondstominuteseconds(currentsong.currentTime)} / ${secondstominuteseconds(currentsong.duration)}` 
         document.querySelector(".circle").style.left=(currentsong.currentTime/currentsong.duration)*100 + '%';
     })
 
@@ -106,7 +106,7 @@ async function main() {
 
     //Add an event listener for close button
     document.querySelector(".close").addEventListener("click",()=>{
-        document.querySelector(".left").style.left="-100%"
+        document.querySelector(".left").style.left="-120%"
     })
 
 
