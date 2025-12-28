@@ -282,6 +282,8 @@ body {
     justify-content: space-evenly;
 }
 
+
+
 .songtime {
     color: black;
     padding: 5px 12px;
@@ -348,10 +350,8 @@ body {
         gap: 13px;
     }
 
-    .songinfo,
-    .songtime {
-        width: auto;
-    }
+
+    
 
 
     .right {
@@ -435,5 +435,11 @@ body {
     .left {
         width: 100vw;
     }
+
+        .songinfo,
+    .songtime {
+    margin: 0 auto;
+    text-align: center;
+}
 
 }
