@@ -74,7 +74,7 @@ This project helped me move from **basic JavaScript knowledge to hands-on experi
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/spotify-clone.git
+   git clone https://github.com/Vishnu-vkn/spotifyclone.git
 2. Open index.html in your browser
 
 3. Ensure songs are correctly placed in the songs folder
