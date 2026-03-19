@@ -45,11 +45,10 @@ This project helped me move from **basic JavaScript knowledge to hands-on experi
 
 ## 📷 Screenshots
 
-<p align="center">
-  <img src="./screenshots/home.png" width="48%" />
-  <img src="./screenshots/user_register.png" width="48%" />
+## Screenshots <p align="center"> 
+<img src="Screenshot%20img.png" width="48%" />
+<img src="Screenshot%20mobile.png" width="48%" /> 
 </p>
-
 
 ---
 
