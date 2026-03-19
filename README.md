@@ -45,7 +45,7 @@ This project helped me move from **basic JavaScript knowledge to hands-on experi
 
 ## 📷 Screenshots
 
-## Screenshots <p align="center"> 
+<p align="center"> 
 <img src="Screenshot%20img.png" width="48%" />
 <img src="Screenshot%20mobile.png" width="48%" /> 
 </p>
